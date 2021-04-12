@@ -1,4 +1,4 @@
-package com.example.rebelbob11.login_signup
+package com.example.login.login_signup
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
