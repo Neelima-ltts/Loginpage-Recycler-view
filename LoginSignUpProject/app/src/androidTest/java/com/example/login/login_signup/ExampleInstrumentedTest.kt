@@ -1,4 +1,4 @@
-package com.example.rebelbob11.login_signup
+package com.example.login.login_signup
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
